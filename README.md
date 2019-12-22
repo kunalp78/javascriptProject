@@ -1,0 +1,2 @@
+# javascriptProject
+for education purpose
